@@ -1,5 +1,8 @@
-# author: <name here>
-# date: <date here>
+
+# author: <Malike>
+# date: <date here
+# author: <Malik turner>
+# date: <00/00/0000>
 
 # This is you first project! Today you will be familiarizing yourself with the print() statement.
 # What you are reading right now is a comment, which is annotation in source code. Don't worry about it too much, just
@@ -33,7 +36,7 @@
 #
 # WRITE CODE BELOW
 print('elia')
-
+print('malik','december 8','j cole')
 # Project 1.2
 #   1) Print your first and last name using separation with commas. Separate your first and last name.
 #   2) Print the date using separation with commas, separating the month, day, and year.
@@ -47,13 +50,16 @@ print('elia')
 #
 # WRITE CODE BELOW
 print('elia', 'deppe')
+print('Malik', 'turner')
+print('6','30','21')
+print('hunnybager','mustelid')
 
 # Project 1.3
 #   1) Print the first 2-5 letters of a country's name with another country's last 2-5 letters of it's name. Use
 #      string combination to combine the letters.
 #   2) Print a verse or chorus from a song. Combine the individual lines using string combination. Use the newline
 #      escape character to start the new lines on a new line.
-#
+print('united','great','i', 'writing', 'down', 'name')
 # Expected Output:
 #   greenmark
 #
